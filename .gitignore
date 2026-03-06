@@ -1,0 +1,9 @@
+# Ignore Java compiled files
+*.class
+
+# Ignore C++ executable files
+*.exe
+*.out
+
+# Ignore Python cache
+__pycache__/
