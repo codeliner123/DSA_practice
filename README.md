@@ -1,6 +1,6 @@
 # DSA Practice: Striver's A2Z Roadmap
 
-This repository contains multi-language implementations of the Striver's A2Z DSA curriculum. Each problem is solved in **C++**, **Java**, and **Python** to ensure cross-language proficiency.
+This repository contains multi-language implementations of DSA curriculum. Each problem is solved in **C++**, **Java**, and **Python** to ensure cross-language proficiency.
 
 ## 📂 Repository Structure
 - **Cpp/**: Source code for C++ implementations.
