@@ -1,5 +1,4 @@
 def print_number():
-
     user_input = input()
     
     x = int(user_input)

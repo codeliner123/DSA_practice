@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Solution {
+public class io {
     
     public void printNumber() {
 
@@ -11,7 +11,7 @@ public class Solution {
     }
 
     public static void main(String[] args) {
-        Solution sol = new Solution();
+        io sol = new io();
         sol.printNumber();
     }
 }
