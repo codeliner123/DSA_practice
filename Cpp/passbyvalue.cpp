@@ -8,9 +8,9 @@ void modify (int a)
 
 int main()
 {
-   int a = 5; 
-   modify(a);
-   cout<<a<<endl;
+   int x = 5; 
+   modify(x);
+   cout<<x<<endl;
    return 0;
 
 }
